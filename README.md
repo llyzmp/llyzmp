@@ -3,7 +3,7 @@
 
 <p >
 <!--   <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=llyzmp&show_icons=true" /> -->
-  <img  src="https://github-readme-stats.vercel.app/api/?username=llyzmp&show_icons=true" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/?username=llyzmp&show_icons=true" />
 <!--   <img align="left"  src="https://github-readme-stats.vercel.app/api/wakatime?username=llyzmp&show_icons=true" /> -->
 </p>
 
